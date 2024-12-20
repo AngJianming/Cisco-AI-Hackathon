@@ -1,7 +1,8 @@
 # Cisco AI Hackathon & CISCO Malaysia AI Day
 
 ## Problem Statements
-<p style='text-align: justify;'>
+<div align="justify">
+  
 In today’s rapidly evolving educational landscape, students face several significant challenges that hinder their learning experiences:
 
 Technology Ethics : The increasing use of AI in education raises ethical concerns, such as over rely on generative AI, data privacy and algorithmic bias, which can inadvertently reinforce inequalities and must be carefully managed to ensure fair and equitable learning opportunities for all students.
@@ -14,7 +15,7 @@ Limited Access to Resources: A significant number of students, particularly in u
 
 Participants in this hackathon are tasked with leveraging AI and Cisco’s advanced technologies to develop solutions that address these challenges, ensuring that education is accessible, engaging, and tailored to the needs of all learners.
 
-</p>
+</div>
 
 ## Criterias
 - The team must consist of a minimum of two (2) members and a maximum of five (5) members, and one (1) institute mentor.
